@@ -1,0 +1,1 @@
+hh = float(input('hours'))
